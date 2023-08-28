@@ -12,7 +12,7 @@ Descrever resumidamente, em um ou dois parágrafos, o projeto que está sendo de
 
 * Fulvius Wolfgang Faria Fonseca Macedo
 * Harttur Luiz Junio D. da Silva
-* Nome completo do aluno 3
+* Victor Beltrão Silva
 * Nome completo do aluno 4
 
 ## Orientador
