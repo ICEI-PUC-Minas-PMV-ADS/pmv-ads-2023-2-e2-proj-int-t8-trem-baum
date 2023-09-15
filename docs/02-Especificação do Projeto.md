@@ -10,6 +10,13 @@ A fim de definir de maneira minuciosa a especificação do problema e os pontos 
 |**Motivação** | Conseguir desempenhar suas funções de maneira mais fácil.
 |**Frustrações** | Dificuldade para mexer no sistema do supermercado.|
 
+|<img src="https://imagens.som13.com/332003/full.jpg"  width="150" height="100">  | **Sheila Furacão** <br> 49 anos   |
+|:---------------------------------------:|:-------------------------------:|
+|**Ocupação** | Fornecedora do supermercado Trem Baum.
+|**Motivação** | Conseguir entregar mais facil seu produto com melhor checkout de vendas.
+|**Frustrações** | Perda financeira por conta de erro no pagamento.|
+
+
 |<img src="docs/img/joao gomes.png" width="150" height="100">   | **João Gomes** <br> 41 anos   |
 |:---------------------------------------:|:-------------------------------:|
 |**Ocupação** | Gerente de matéria prima dos produtos
