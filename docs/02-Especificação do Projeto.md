@@ -10,6 +10,12 @@ A fim de definir de maneira minuciosa a especificação do problema e os pontos 
 |**Motivação** | Conseguir desempenhar suas funções de maneira mais fácil.
 |**Frustrações** | Dificuldade para mexer no sistema do supermercado.|
 
+|<img src="" width="150" height="100">   | **Sheila Furacão** <br> 49 anos   |
+|:---------------------------------------:|:-------------------------------:|
+|**Ocupação** | Fornecedora do supermercado Trem Baum.
+|**Motivação** | Conseguir mais vendas com um melhor checkout.
+|**Frustrações** | Perda financeira por conta de erro no pagamento.|
+
 |<img src="https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-2-e2-proj-int-t8-trem-baum/blob/main/docs/img/joao%20gomes.png" width="150" height="100">   | **João Gomes** <br> 41 anos   |
 |:---------------------------------------:|:-------------------------------:|
 |**Ocupação** | Gerente de matéria prima dos produtos
