@@ -9,7 +9,7 @@ Visão geral da interação do usuário pelas telas do sistema e protótipo inte
 
 ## Diagrama de Fluxo
 
-!(docs/img/Diagrama.jpeg)
+![image](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-2-e2-proj-int-t8-trem-baum/assets/103541503/70a6e299-2be7-419e-99bc-7c09cbd1d039)
 
 ## Wireframes
 
