@@ -44,7 +44,7 @@ A visualização interativa pode ser feita através do [Figma](https://www.figma
 
 ![Tela Inicial - Cliente](img/InicialU.jpeg)
 
-### Tela - Carrinho de Compras
+### Tela - Carrinho de Compras (Cliente)
 
 ![Tela de Carrinho de compras](img/Carrinho.jpeg)
 
