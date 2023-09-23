@@ -14,15 +14,42 @@ Visão geral da interação do usuário pelas telas do sistema e protótipo inte
 
 ## Wireframes
 
-![Exemplo de Wireframe](img/wireframe-example.png)
+A visualização interativa pode ser feita através do [Figma](https://www.figma.com/proto/OaU4wDe4LdbyP85X4XFRa5/Trem-Baum?type=design&node-id=9-465&t=nshUQMUnZ5OiWmKl-1&scaling=contain&page-id=0%3A1&starting-point-node-id=9%3A465).
 
-São protótipos usados em design de interface para sugerir a estrutura de um site web e seu relacionamentos entre suas páginas. Um wireframe web é uma ilustração semelhante do layout de elementos fundamentais na interface.
- 
-> **Links Úteis**:
-> - [Protótipos vs Wireframes](https://www.nngroup.com/videos/prototypes-vs-wireframes-ux-projects/)
-> - [Ferramentas de Wireframes](https://rockcontent.com/blog/wireframes/)
-> - [MarvelApp](https://marvelapp.com/developers/documentation/tutorials/)
-> - [Figma](https://www.figma.com/)
-> - [Adobe XD](https://www.adobe.com/br/products/xd.html#scroll)
-> - [Axure](https://www.axure.com/edu) (Licença Educacional)
-> - [InvisionApp](https://www.invisionapp.com/) (Licença Educacional)
+### Tela - Inicial
+
+![Tela Inicial](img/Inicial.jpeg)
+
+### Tela - Login
+
+![Tela de Login](img/Login.jpeg)
+
+### Tela - Cadastro
+
+![Tela de Cadastro](img/Cadastro.jpeg)
+
+### Tela - Inicial (Gerente)
+
+![Tela Inicial - Gerente ](img/Gerente.jpeg)
+
+### Tela - Entregas (Gerente)
+
+![Tela de Entregas](img/Entrega.jpeg)
+
+### Tela - Estoque (Gerente)
+
+![Tela de Estoque](img/Estoque.jpeg)
+
+### Tela - Inicial (Cliente)
+
+![Tela Inicial - Cliente](img/InicialU.jpeg)
+
+### Tela - Carrinho de Compras
+
+![Tela de Carrinho de compras](img/Carrinho.jpeg)
+
+
+
+
+
+
