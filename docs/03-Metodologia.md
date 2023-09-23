@@ -11,7 +11,7 @@ foi utilizado para hospedagem do repositório.
 
 O projeto segue a seguinte convenção para o nome de branches:
 
-- `main`: versão estável já testada do software
+- **`main:`** versão estável já testada do software
 
 Quanto à gerência de issues, o projeto adota a seguinte convenção para
 etiquetas:
