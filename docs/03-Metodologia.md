@@ -16,10 +16,10 @@ O projeto segue a seguinte convenção para o nome de branches:
 Quanto à gerência de issues, o projeto adota a seguinte convenção para
 etiquetas:
 
-- `documentation`: melhorias ou acréscimos à documentação
-- `bug`: uma funcionalidade encontra-se com problemas
-- `enhancement`: uma funcionalidade precisa ser melhorada
-- `feature`: uma nova funcionalidade precisa ser introduzida
+- **`documentation:`** melhorias ou acréscimos à documentação
+- **`bug:`** uma funcionalidade encontra-se com problemas
+- **`enhancement:`** uma funcionalidade precisa ser melhorada
+- **`feature:`** uma nova funcionalidade precisa ser introduzida
 
 ## Gerenciamento de Projeto
 
@@ -29,37 +29,29 @@ A equipe utiliza metodologias ágeis, tendo escolhido o Scrum como base para def
 
 A equipe está organizada da seguinte maneira:
 
-- Scrum Master: Robert
-- Product Owner: Robert
-- Equipe de Desenvolvimento: Pedro, Victor Beltrão, Robert, Hartur, Carlos, Fulvius
-- Equipe de Design: Pedro, Victor Beltrão, Robert, Hartur, Carlos, Fulvius
+- **Scrum Master:** Robert
+- **Product Owner:** Robert
+- **Equipe de Desenvolvimento:** Pedro, Victor Beltrão, Robert, Hartur, Carlos, Fulvius
+- **Equipe de Design:** Pedro, Victor Beltrão, Robert, Hartur, Carlos, Fulvius
 
 ### Processo
 
-Coloque  informações sobre detalhes da implementação do Scrum seguido pelo grupo. O grupo poderá fazer uso de ferramentas on-line para acompanhar o andamento do projeto, a execução das tarefas e o status de desenvolvimento da solução.
- 
-> **Links Úteis**:
-> - [Project management, made simple](https://github.com/features/project-management/)
-> - [Sobre quadros de projeto](https://docs.github.com/pt/github/managing-your-work-on-github/about-project-boards)
-> - [Como criar Backlogs no Github](https://www.youtube.com/watch?v=RXEy6CFu9Hk)
-> - [Tutorial Slack](https://slack.com/intl/en-br/)
+Para melhor organização está sendo utilizado o Trello com as seguintes listas:
+
+- **Backlog:** Todos os artefatos da solução que serão quebrados em tarefas etapas.
+- **A Fazer:** Tarefas da etapa em desenvolvimento que precisam ser feitas e ainda não foram atribuídas a nenhum membro.
+- **Em Andamento:** Todas as tarefas da etapa que estão sendo feitas por algum dos membros.
+- **Em Revisão:** Tarefa que está sendo revisada por outro membro.
+- **Concluído:** Todas as tarefas que foram concluídas.
+
+![Trello - Trem Baum](img/Kanban.png)
 
 ### Ferramentas
 
 As ferramentas empregadas no projeto são:
 
-- Editor de código.
-- Ferramentas de comunicação
-- Ferramentas de desenho de tela (_wireframing_)
+- **Visual Studio Code** 
+- **Discord**
+- **Figma**
 
-O editor de código foi escolhido porque ele possui uma integração com o
-sistema de versão. As ferramentas de comunicação utilizadas possuem
-integração semelhante e por isso foram selecionadas. Por fim, para criar
-diagramas utilizamos essa ferramenta por melhor captar as
-necessidades da nossa solução.
-
-Liste quais ferramentas foram empregadas no desenvolvimento do projeto, justificando a escolha delas, sempre que possível.
- 
-> **Possíveis Ferramentas que auxiliarão no gerenciamento**: 
-> - [Slack](https://slack.com/)
-> - [Github](https://github.com/)
+Todas as ferramentas foram escolhidas visando a facilidade de uso e familiaridade da equipe, permitindo que ocorra um melhor trabalho em grupo.
