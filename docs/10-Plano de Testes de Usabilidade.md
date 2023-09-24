@@ -30,7 +30,7 @@ Report: O facilitador fará todas as anotações pertinentes em relatório espec
 ||8) Escrever endereço|
 ||9) selecionar forma de pagamento|
 ||10) Finalizar pedido|
-|**Critérios de Êxito**|O usuário deve considerar o sistema intuitivo e de fácil utilização|
+|**Critérios de Êxito**|O cliente deve considerar o sistema intuitivo e de fácil utilização|
 
 |Caso de Teste | 02 - Verificar responsividade|
 |:--|:--|
