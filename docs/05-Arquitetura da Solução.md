@@ -29,7 +29,7 @@ Para mais informações, consulte o microfundamento "Modelagem de Dados".
 
 ## Tecnologias Utilizadas
 
-Visual Studio Code, Figma, C#, Lucidchart.
+Visual Studio Code, C#, Lucidchart.
 
 ## Hospedagem
 
