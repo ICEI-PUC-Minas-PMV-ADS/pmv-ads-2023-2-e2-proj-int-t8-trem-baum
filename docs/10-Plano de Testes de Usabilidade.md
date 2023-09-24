@@ -26,6 +26,7 @@ Passos
 9) selecionar forma de pagamento
 10) Finalizar pedido
 Critérios de Êxito	O usuário deve considerar o sistema intuitivo e de fácil utilização
+
 Caso de Teste	02 - Verificar responsividade
 Objetivo do teste	Avaliar se o sistema é de fácil utilização e responsivo por usuário “FUNCIONARIO”
 Passos
@@ -37,6 +38,7 @@ Passos
 6) Caso nao possua estoque, enviar solicitação de produção
 7) Lançar o produto em estoque apos o fim da produção
 8) Retornar a pagina de pesquisa de produto
-Critérios de Êxito	O fornecedor deve considerar o sistema intuitivo e de fácil utilização
+Critérios de Êxito	O funcionario deve considerar o sistema intuitivo e de fácil utilização
+
 Confecção e Analise do relatório
 O observador irá registrar o tempo para conclusão dos testes, a opinião do usuário em relação ao sistema, sugestões de melhorias e outras observações de utilização que julgar pertinente. A equipe de posse dos relatórios fará a avaliação e ajustes necessários.
