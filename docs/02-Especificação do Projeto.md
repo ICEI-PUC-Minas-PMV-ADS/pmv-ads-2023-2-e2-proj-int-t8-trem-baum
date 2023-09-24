@@ -10,28 +10,16 @@ A fim de definir de maneira minuciosa a especificação do problema e os pontos 
 |**Motivação** | Conseguir desempenhar suas funções de maneira mais fácil.
 |**Frustrações** | Dificuldade para mexer no sistema do supermercado.|
 
-|<img src="" width="150" height="100">   | **Sheila Furacão** <br> 49 anos   |
-|:---------------------------------------:|:-------------------------------:|
-|**Ocupação** | Fornecedora do supermercado Trem Baum.
-|**Motivação** | Conseguir mais vendas com um melhor checkout.
-|**Frustrações** | Perda financeira por conta de erro no pagamento.|
-
 |<img src="https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-2-e2-proj-int-t8-trem-baum/blob/main/docs/img/joao%20gomes.png" width="150" height="100">   | **João Gomes** <br> 41 anos   |
 |:---------------------------------------:|:-------------------------------:|
 |**Ocupação** | Gerente de matéria prima dos produtos
 |**Motivação** | Conseguir reduzir de forma efetiva o desperdicio de materia prima, cujo o armazenamento não é tao efetivo, pois diminui a qualidade do produto.
 |**Frustrações** | Desperdicio e consequentemente percas financeiras gerados ao mercado.|
 
-|<img src="" width="150" height="100">   | **Ellon Muska** <br> 43 anos   |
-|:---------------------------------------:|:-------------------------------:|
-|**Ocupação** | Atendente de lojinha de iguarias mineiras
-|**Motivação** | Organizar a loja e ver os clientes satisfeito.
-|**Frustrações** | Perder vendas por não ter uma plataforma digital da lojinha .|
-
-|<img src="https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-2-e2-proj-int-t8-trem-baum/blob/main/docs/img/abigailsilva.png" width="150" height="100">   | **Abiagail da silva** <br> 68 anos   |
+|<img src="https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-2-e2-proj-int-t8-trem-baum/blob/main/docs/img/abigailsilva.png" width="150" height="100">   | **Abigail da silva** <br> 68 anos   |
 |:---------------------------------------:|:-------------------------------:|
 |**Ocupação** | Aposentada e chefe de familia.
-|**Motivação** | COnseguir por meio de ferramentas agieis facilitar suas atividades diarias, podendo com ela melhor desempenhar suas funções.
+|**Motivação** | Conseguir por meio de ferramentas agéis facilitar suas atividades diárias, podendo com ela melhor desempenhar suas funções.
 |**Frustrações** | A complexidade da tecnologia, visto sua dificuldade com o mundo digital.|
 
 |<img src="https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-2-e2-proj-int-t8-trem-baum/blob/main/docs/img/Rogerio.png" width="150" height="150">   | **Rogério Menezes** <br> 58 anos   |
@@ -50,9 +38,7 @@ Com base na análise das personas foram identificadas as seguintes histórias de
 |João Gomes (Gerente de matéria prima)|	Receber informações dos recursos necessarios para produção dos produtos artesanais de forma assertiva|	Evitar desperdicios e manter o mercado sempre abastecido.|
 |Rogério Menezes (Consumidor)| Realizar pedidos de maneira eficiente e interativa | Economizar tempo em minha viagem e ver mais lojas.|
 |Joana Oliveira (Funcionária do TremBaum)|	Trabalhar de forma mais precisa e eficiente|	Entender melhor o sistema, realizar cada função de forma intuitiva|
-|Ellon Muska (Atendente da lojinha)| Controle de estoque da loja fisica e do site | Para ter um controle fácil e rápido do estoque.|
-|Rosana Avelar (gestora da escola de governo)|	Acessar um painel de indicadores (de desempenho dashboard) dos alunos e dos cursos realizados|	Gerar relatórios aos superiores hierárquicos e auxilia-los na tomada de decisões|
-|Abiagail da silva (Chefe de familia)|	faciliadad em compras e agilidade no processo| Para ter mais tempo para desempenhar suas atividades|
+|Abigail da silva (Chefe de familia)|	Facilidade em compras e agilidade no processo| Para ter mais tempo para desempenhar suas atividades|
 ## Requisitos
 
 As tabelas que se seguem apresentam os requisitos funcionais e não funcionais que detalham o escopo do projeto.
