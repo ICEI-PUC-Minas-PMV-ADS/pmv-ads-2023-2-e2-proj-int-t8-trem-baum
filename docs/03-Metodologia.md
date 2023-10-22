@@ -44,7 +44,7 @@ Para melhor organização está sendo utilizado o Trello com as seguintes listas
 - **Em Revisão:** Tarefa que está sendo revisada por outro membro.
 - **Concluído:** Todas as tarefas que foram concluídas.
 
-![Trello - Trem Baum](img/Kanban.png)
+![Trello - Trem Baum](img/Kanban2.png)
 
 ### Ferramentas
 
