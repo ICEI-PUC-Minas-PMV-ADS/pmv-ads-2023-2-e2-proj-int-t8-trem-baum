@@ -5,6 +5,14 @@
       "PackagePath": "staticwebassets\\TremBaum.bundle.scp.css"
     },
     {
+      "Id": "X:\\Arquivos de programas (86x)\\TremBaum\\TremBaum\\wwwroot\\css\\CadastroCSS.css",
+      "PackagePath": "staticwebassets\\css\\CadastroCSS.css"
+    },
+    {
+      "Id": "X:\\Arquivos de programas (86x)\\TremBaum\\TremBaum\\wwwroot\\css\\LoginCSS.css",
+      "PackagePath": "staticwebassets\\css\\LoginCSS.css"
+    },
+    {
       "Id": "X:\\Arquivos de programas (86x)\\TremBaum\\TremBaum\\wwwroot\\css\\site.css",
       "PackagePath": "staticwebassets\\css\\site.css"
     },

@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "qBp+90RBmsOk7D6id87wbG4INBVKJBjF+IHeOjA1Fzo=",
+  "Hash": "cP+DIROBAZ3gRgDima5CVTHDEIqDpaSwXF3IL4r6sbI=",
   "Source": "TremBaum",
   "BasePath": "_content/TremBaum",
   "Mode": "Default",
@@ -49,6 +49,40 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "X:\\Arquivos de programas (86x)\\TremBaum\\TremBaum\\obj\\Debug\\net6.0\\scopedcss\\projectbundle\\TremBaum.bundle.scp.css"
+    },
+    {
+      "Identity": "X:\\Arquivos de programas (86x)\\TremBaum\\TremBaum\\wwwroot\\css\\CadastroCSS.css",
+      "SourceId": "TremBaum",
+      "SourceType": "Discovered",
+      "ContentRoot": "X:\\Arquivos de programas (86x)\\TremBaum\\TremBaum\\wwwroot\\",
+      "BasePath": "_content/TremBaum",
+      "RelativePath": "css/CadastroCSS.css",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\css\\CadastroCSS.css"
+    },
+    {
+      "Identity": "X:\\Arquivos de programas (86x)\\TremBaum\\TremBaum\\wwwroot\\css\\LoginCSS.css",
+      "SourceId": "TremBaum",
+      "SourceType": "Discovered",
+      "ContentRoot": "X:\\Arquivos de programas (86x)\\TremBaum\\TremBaum\\wwwroot\\",
+      "BasePath": "_content/TremBaum",
+      "RelativePath": "css/LoginCSS.css",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\css\\LoginCSS.css"
     },
     {
       "Identity": "X:\\Arquivos de programas (86x)\\TremBaum\\TremBaum\\wwwroot\\css\\site.css",
