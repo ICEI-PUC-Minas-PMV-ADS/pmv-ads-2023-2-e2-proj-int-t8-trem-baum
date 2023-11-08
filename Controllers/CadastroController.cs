@@ -21,6 +21,7 @@ namespace TremBaum.Controllers
 				return ValidarUsuarioCadastro();
 			}
 			usuarioCadastro = "";
+
 			usuarioCadastro.ValidarUsuarioCadastro();
 
 
