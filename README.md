@@ -55,7 +55,7 @@ O link e o usuário/senha descritos acima são apenas exemplos de como tais info
 
 # Hospedagem
 
-* [Site - Trem Baum]((http://pedargentino-001-site1.etempurl.com))
+* [Site - Trem Baum](http://pedargentino-001-site1.etempurl.com)
 
 # Apresentação
 
