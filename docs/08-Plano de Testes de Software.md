@@ -45,7 +45,6 @@ Objetivo: Avaliar o atendimento dos requisitos funcionais
 | Passos 	| - Logar no app; <br> - Entrar na página inicial; <br> - Adicionar produtos ao carrinho de compras; <br> - Entrar no carrinho de compras; <br> - Clicar em realizar pedido. |
 |Critério de Êxito | - A página de checkout deve ser mostrada. |
 |  	|  	|
-
 | **Caso de Teste** 	| **CT-07 - Verificação e atualização do estoque**	|
 |Requisito Associado | RF-06	- O supermercado deve permitir que gerentes verifiquem e atualizem o estoque. |
 | Objetivo do Teste 	| Validar a verificação e atualização do estoque do supermercado. |
