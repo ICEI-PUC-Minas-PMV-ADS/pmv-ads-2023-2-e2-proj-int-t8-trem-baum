@@ -32,6 +32,7 @@
 |  	|  	|
 
 | **Caso de Teste** 	| **CT-07 - Verificação e atualização do estoque**	|
+|:---:	|:---:	|
 |Requisito Associado | RF-06	- O supermercado deve permitir que gerentes verifiquem e atualizem o estoque. |
 ![Teste](img/Teste10.jpeg)
 ![Teste](img/Teste11.jpeg)
