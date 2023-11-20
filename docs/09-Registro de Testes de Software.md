@@ -1,10 +1,10 @@
 # Registro de Testes de Software
 
-| **CT-01 – Cadastro de usuário** 	|
+| **Caso de Teste** 	| **CT-01 – Cadastro de usuário** 	|
 |:---:	|:---:	|
-|	Requisito Associado  RF-01 -  O supermercado deve permitir o cadastro de clientes e gerentes. |
-![Teste](img/Teste01.jpeg)
+|	Requisito Associado 	| RF-01 -  O supermercado deve permitir o cadastro de clientes e gerentes. |
 |  	|  	|
+![Teste](img/Teste01.jpeg)
 | **Caso de Teste** 	| **CT-02 - Cadastro de gerente**	|
 |Requisito Associado | RF-01	- O supermercado deve permitir o cadastro de clientes e gerentes. |
 ![Teste](img/Teste02.jpeg)
