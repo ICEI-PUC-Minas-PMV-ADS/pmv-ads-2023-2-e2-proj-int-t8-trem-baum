@@ -1,5 +1,7 @@
 using Microsoft.AspNetCore.Authentication.Cookies;
 using Microsoft.EntityFrameworkCore;
+using Stripe;
+using TremBaum.Data;
 using TremBaum.Models;
 
 namespace TremBaum
@@ -10,8 +12,11 @@ namespace TremBaum
         {
             var builder = WebApplication.CreateBuilder(args);
 
+
+
             // Add services to the container.
             builder.Services.AddControllersWithViews();
+            builder.Services.Configure<StripeSettings>(builder.Configuration.GetSection("Stripe"));
 
             builder.Services.AddDistributedMemoryCache();
             builder.Services.AddSession(options=>
@@ -42,6 +47,7 @@ namespace TremBaum
             var app = builder.Build();
 
             // Configure the HTTP request pipeline.
+            StripeConfiguration.ApiKey = "sk_test_51OHu8bDicgprkqxJQ0IJAGqvEaqhXdAM0ZY3AzvCRH8tnC1IeABY6bgZhXyj5rx8kUX3brAdmYCaD8SrqFtg7TPs00G5IKC5e7";
             if (!app.Environment.IsDevelopment())
             {
                 app.UseExceptionHandler("/Home/Error");

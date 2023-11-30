@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "fHK5Wn1H6I2gHedRHgEzqqy8ClW7LaBGy9YCGsv3gj8/bST4AC+ISx12u/Yy1PLEiQRaVUbtKHb0H3Dxp9Ad+A==",
+  "dgSpecHash": "fpjHqkIRWWDUYwMEQba8HzhfU9BELjsQPkIOri6CsZEnk9Qn3QNcXUBvrqOEmJeartTL3KW5gOsF9aFCaoNXUw==",
   "success": true,
   "projectFilePath": "D:\\Dev\\TremBaum\\TremBaum\\TremBaum.csproj",
   "expectedPackageFiles": [
@@ -154,6 +154,7 @@
     "C:\\Users\\Lotus\\.nuget\\packages\\sqlitepclraw.core\\2.1.2\\sqlitepclraw.core.2.1.2.nupkg.sha512",
     "C:\\Users\\Lotus\\.nuget\\packages\\sqlitepclraw.lib.e_sqlite3\\2.1.2\\sqlitepclraw.lib.e_sqlite3.2.1.2.nupkg.sha512",
     "C:\\Users\\Lotus\\.nuget\\packages\\sqlitepclraw.provider.e_sqlite3\\2.1.2\\sqlitepclraw.provider.e_sqlite3.2.1.2.nupkg.sha512",
+    "C:\\Users\\Lotus\\.nuget\\packages\\stripe.net\\43.4.0\\stripe.net.43.4.0.nupkg.sha512",
     "C:\\Users\\Lotus\\.nuget\\packages\\system.appcontext\\4.3.0\\system.appcontext.4.3.0.nupkg.sha512",
     "C:\\Users\\Lotus\\.nuget\\packages\\system.buffers\\4.5.1\\system.buffers.4.5.1.nupkg.sha512",
     "C:\\Users\\Lotus\\.nuget\\packages\\system.collections\\4.3.0\\system.collections.4.3.0.nupkg.sha512",

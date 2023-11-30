@@ -567,3 +567,4 @@ D:\Dev\TremBaum\TremBaum\bin\Debug\net6.0\Microsoft.AspNetCore.Cryptography.KeyD
 D:\Dev\TremBaum\TremBaum\bin\Debug\net6.0\Microsoft.Extensions.Identity.Core.dll
 D:\Dev\TremBaum\TremBaum\bin\Debug\net6.0\Microsoft.Extensions.Logging.Abstractions.dll
 D:\Dev\TremBaum\TremBaum\bin\Debug\net6.0\MySqlConnector.dll
+D:\Dev\TremBaum\TremBaum\bin\Debug\net6.0\Stripe.net.dll

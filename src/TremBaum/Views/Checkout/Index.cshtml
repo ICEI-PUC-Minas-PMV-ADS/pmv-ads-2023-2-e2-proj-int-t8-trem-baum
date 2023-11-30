@@ -1,26 +1,26 @@
-﻿
+﻿@using Microsoft.Extensions.Options
+@inject IOptions<TremBaum.Data.StripeSettings> Stripe
+
+
 @{
     Layout = "_Layout";
 }
 
-<!DOCTYPE html>
-<html>
-<head>
-    <meta name="viewport" content="width=device-width" />
-</head>
+<div class="text-center">
+    <form asp-action="Processing" asp-controller="Checkout" method="post">
+        <article>
+            <label> Valor R$ @Math.Round(ViewBag.ReaisAmount, 2)</label>
+        </article>
+        <script src="https://checkout.stripe.com/checkout.js" class="stripe-button"
+            data-key="@Stripe.Value.PublishableKey"
+            data-amount="@ViewBag.Total"
+            data-name="Trem Baum"
+            data-description="Pagamento de produtos"
+            data-image="https://stripe.com/img/documentation/checkout/marketplace.png"
+            data-locale="br"
+            data-zip-code="true">
 
-<body>
-    <h3>Finalizar Compra</h3>
-    <table cellpadding="2" cellspacing="2" border="1">
-        <tr>
-            <th> Total a pagar</th>
-        </tr>
-        <tr>
-            <td>
-                @ViewBag.total
-            </td>
-        </tr>
-    </table>
-</body>
-</html>
+        </script>
+    </form>
+</div>
 
