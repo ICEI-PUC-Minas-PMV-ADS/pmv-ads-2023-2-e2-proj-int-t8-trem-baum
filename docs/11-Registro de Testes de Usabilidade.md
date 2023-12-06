@@ -6,7 +6,10 @@
 ![Teste](img/Teste13.jpeg)
 ![Teste](img/Teste14.jpeg)
 ![Teste](img/Teste15.jpeg)
-![Teste](img/Teste16.jpeg)
+![Teste](img/Teste16.png)
+![Teste](img/Teste17.png)
+![Teste](img/Teste18.png)
+![Teste](img/Teste19.png)
 
 ## 02 - Verificar Responsividade (Gerente) ##
 
