@@ -53,11 +53,10 @@ A tabela a seguir apresenta os requisitos do projeto, identificando a prioridade
 |RF-02|	O supermercado deve permitir o login de clientes e gerentes. |ALTA|
 |RF-03|	O supermercado deve apresentar uma lista com seus produtos. |ALTA|
 |RF-04| O supermercado deve permitir que clientes realizem pedidos. |ALTA|
-|RF-05|	O supermercado deve permitir que clientes verifiquem seus pedidos. |MÉDIA|
-|RF-06| O supermercado deve permitir que gerentes verifiquem e atualizem o estoque. |ALTA|
-|RF-07| O supermercado deve permitir a efetuação de pagamentos. |ALTA|
-|RF-08| O supermercado deve permitir que gerentes atualizem clientes de seus pedidos.  |MÉDIA|
-|RF-09| O supermercado deve permitir que gerentes verifiquem todos os pedidos. |BAIXA|
+|RF-05| O supermercado deve permitir que gerentes verifiquem e atualizem o estoque. |ALTA|
+|RF-06| O supermercado deve permitir a efetuação de pagamentos. |ALTA|
+|RF-07| O supermercado deve permitir que gerentes atualizem clientes de seus pedidos.  |MÉDIA|
+|RF-08| O supermercado deve permitir que gerentes verifiquem todos os pedidos. |BAIXA|
 
 
 ### Requisitos não Funcionais
@@ -67,13 +66,12 @@ A tabela a seguir apresenta os requisitos não funcionais que o projeto deverá 
 |ID  | Descrição do Requisito  |Prioridade |
 |----|-------------------------|----|
 |RNF-01|	A aplicação deve ser publicada em um ambiente acessível publicamente na Internet|ALTA|
-|RNF-02|	A aplicação deverá ser responsiva permitindo a visualização em um celular de forma responsiva|ALTA|
-|RNF-03|	A aplicação deve ter bom nível de contraste entre os elementos da tela em conformidade|MÉDIA|
-|RNF-04| A aplicação deve estar disponível 24 horas por dia, todos os dias da semana  | ALTA |
-|RNF-05| A aplicação deve ser compatível com os principais navegadores do mercado (Google Chrome, Firefox, Microsoft Edge, Safari ou Opera) | ALTA |
-|RNF-06| A aplicação deve ter uma linguagem simples e de fácil entendimento | ALTA |
-|RNF-07| A aplicação deve ter uma boa navegabilidade e usabilidade, facilitando a experiência do usuário | ALTA |
-|RNF-08| Por se tratar de uma aplicação com abrangência nacional, a mesma deve comportar grandes acessos simultâneos | ALTA |
+|RNF-02|	A aplicação deve ter bom nível de contraste entre os elementos da tela em conformidade|MÉDIA|
+|RNF-03| A aplicação deve estar disponível 24 horas por dia, todos os dias da semana  | ALTA |
+|RNF-04| A aplicação deve ser compatível com os principais navegadores do mercado (Google Chrome, Firefox, Microsoft Edge, Safari ou Opera) | ALTA |
+|RNF-05| A aplicação deve ter uma linguagem simples e de fácil entendimento | ALTA |
+|RNF-06| A aplicação deve ter uma boa navegabilidade e usabilidade, facilitando a experiência do usuário | ALTA |
+|RNF-07| Por se tratar de uma aplicação com abrangência nacional, a mesma deve comportar grandes acessos simultâneos | ALTA |
 
 
 ## Restrições
@@ -82,7 +80,7 @@ As questões que limitam a execução desse projeto e que se configuram como obr
 
 |ID| Restrição                                             |
 |--|-------------------------------------------------------|
-|RE-01|	O projeto deverá ser entregue no final do semestre letivo, não podendo extrapolar a data de 06/12/2022|
+|RE-01|	O projeto deverá ser entregue no final do semestre letivo, não podendo extrapolar a data de 06/12/2023|
 |RE-02|	O aplicativo deve se restringir às tecnologias básicas da Web no back-end|
 
 ## Diagrama de Casos de Uso
