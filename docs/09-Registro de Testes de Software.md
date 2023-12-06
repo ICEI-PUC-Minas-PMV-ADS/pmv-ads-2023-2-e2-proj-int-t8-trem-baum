@@ -3,8 +3,8 @@
 | **Caso de Teste** 	| **CT-01 – Cadastro de usuário** 	|
 |:---:	|:---:	|
 |	Requisito Associado 	| RF-01 -  O supermercado deve permitir o cadastro de clientes e gerentes. |
-|  	|  	|
 ![Teste](img/Teste01.jpeg)
+|  	|  	|
 
 | **Caso de Teste** 	| **CT-02 - Cadastro de gerente**	|
 |:---:	|:---:	|
@@ -33,7 +33,21 @@
 
 | **Caso de Teste** 	| **CT-07 - Verificação e atualização do estoque**	|
 |:---:	|:---:	|
-|Requisito Associado | RF-06	- O supermercado deve permitir que gerentes verifiquem e atualizem o estoque. |
+|Requisito Associado | RF-05	- O supermercado deve permitir que gerentes verifiquem e atualizem o estoque. |
 ![Teste](img/Teste10.jpeg)
 ![Teste](img/Teste11.jpeg)
+|  	|  	|
+
+| **Caso de Teste** 	| **CT-08 - Efetuação de pagamentos**	|
+|:---:	|:---:	|
+|Requisito Associado | RF-06	- O supermercado deve permitir a efetuação de pagamentos. |
+![Teste](img/Teste17.png)
+![Teste](img/Teste18.png)
+![Teste](img/Teste19.png)
+|  	|  	|
+
+| **Caso de Teste** 	| **CT-09 - Verificação de pagamentos/pedidos**	|
+|:---:	|:---:	|
+|Requisito Associado | RF-08	- O supermercado deve permitir que gerentes verifiquem todos os pedidos. |
+![Teste](img/Pedidos.png)
 |  	|  	|
