@@ -46,9 +46,22 @@ Objetivo: Avaliar o atendimento dos requisitos funcionais
 |Critério de Êxito | - A página de checkout deve ser mostrada. |
 |  	|  	|
 | **Caso de Teste** 	| **CT-07 - Verificação e atualização do estoque**	|
-|Requisito Associado | RF-06	- O supermercado deve permitir que gerentes verifiquem e atualizem o estoque. |
+|Requisito Associado | RF-05	- O supermercado deve permitir que gerentes verifiquem e atualizem o estoque. |
 | Objetivo do Teste 	| Validar a verificação e atualização do estoque do supermercado. |
 | Passos 	| - Logar no app; <br> - Entrar na página inicial; <br> - Entrar na aba de gerente; <br> - Entrar na página de estoque; <br> - Verificar informações do estoque; <br> - Atualizar informações do estoque. |
 |Critério de Êxito | - Produtos que constem no estoque devem ser mostrados na área correta, tal como produtos que não estejam em estoque devem ser mostrados na devida área. Atualizações sobre produtos devem ser mostradas de maneira correta nas áreas corretas (produtos que entram em estoque e ou produtos que saem do estoque). |
 |  	|  	|
+| **Caso de Teste** 	| **CT-08 - Efetuação de pagamentos** |
+|Requisito Associado | 	RF-06 - O supermercado deve permitir a efetuação de pagamentos. |
+| Objetivo do Teste 	| Realizar um pagamento. |
+| Passos 	| - Logar no app; <br> - Entrar na página inicial; <br> - Adicionar produtos ao carrinho de compras; <br> - Entrar no carrinho de compras; <br> - Clicar em realizar pedido.; <br> - Preencher suas informações. |
+|Critério de Êxito | - A página de checkout deve ser mostrada. |
+|  	|  	|
+| **Caso de Teste** 	| **CT-09 - Verificação de pagamentos/pedidos** |
+|Requisito Associado | 	RF-08 - O supermercado deve permitir que gerentes verifiquem todos os pedidos. |
+| Objetivo do Teste 	| Verificar pagamentos e pedidos realizados |
+| Passos 	| - Acessar o site Stripe; <br> - Efetuar login na conta do e-commerce; <br> - Verificar pedidos. |
+|Critério de Êxito | - Os pedidos devem ser exibidos. |
+|  	|  	|
+
 
