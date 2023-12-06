@@ -23,13 +23,7 @@ Criação de um sistema para ajudar a gerenciar os recursos do mercado Trem Baum
 
 ## Instruções de utilização
 
-Assim que a primeira versão do sistema estiver disponível, deverá complementar com as instruções de utilização. Descreva como instalar eventuais dependências e como executar a aplicação.
-
-Não deixe de informar o link onde a aplicação estiver disponível para acesso (por exemplo: https://adota-pet.herokuapp.com/src/index.html).
-
-Se houver usuário de teste, o login e a senha também deverão ser informados aqui (por exemplo: usuário - admin / senha - admin).
-
-O link e o usuário/senha descritos acima são apenas exemplos de como tais informações deverão ser apresentadas.
+Acessar o site, criar uma conta, verificar seu ID, acessar sua conta, ir em produtos, colocar um produto no carrinho, finalizar compra, efetuar pagamento.
 
 # Documentação
 
@@ -51,7 +45,7 @@ O link e o usuário/senha descritos acima são apenas exemplos de como tais info
 
 # Código
 
-<li><a href="src/README.md"> Código Fonte</a></li>
+<li><a href="src> Código Fonte</a></li>
 
 # Hospedagem
 
@@ -59,4 +53,4 @@ O link e o usuário/senha descritos acima são apenas exemplos de como tais info
 
 # Apresentação
 
-<li><a href="presentation/README.md"> Apresentação da solução</a></li>
+* [Apresentação - Trem Baum](https://www.youtube.com/watch?v=mt0275KEL5Y)
